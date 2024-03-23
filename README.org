@@ -1,0 +1,8 @@
+** tinylog
+A very small logging library.
+
+** Why?
+I just needed to print very basic debugging crufts,
+so adding additional library is out of the question.
+I don't need to redirect them to a specific file, so
+all it does is _prints_ the buffer on the screen.
